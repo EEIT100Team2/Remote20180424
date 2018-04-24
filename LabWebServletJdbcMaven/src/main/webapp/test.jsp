@@ -35,6 +35,6 @@ stmt.close();
 conn.close();
 %>
 
-哈哈哈
+
 </body>
 </html>
