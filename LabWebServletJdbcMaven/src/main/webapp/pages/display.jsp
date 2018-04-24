@@ -11,7 +11,7 @@
 <title>Display</title>
 </head>
 <body>
-<h1>HAHAHAHHAHAHA</h1>
+<h1>HI~~~~~~~~</h1>
 <h3>Select Product Table Result : ${fn:length(select)} row(s) selected</h3>
 <c:if test="${not empty select}">
 <table>
