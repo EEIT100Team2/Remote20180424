@@ -34,5 +34,13 @@ rset.close();
 stmt.close();
 conn.close();
 %>
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+
+aaa
+=======
+>>>>>>> branch 'master' of https://github.com/EEIT100Team2/Remote20180424.git
+>>>>>>> branch 'master' of https://github.com/EEIT100Team2/Remote20180424.git
 </body>
 </html>
