@@ -11,7 +11,11 @@
 <title>Display</title>
 </head>
 <body>
+<<<<<<< HEAD
 
+=======
+<h1>HI~~~~~~~~</h1>
+>>>>>>> branch 'master' of https://github.com/EEIT100Team2/Remote20180424.git
 <h3>Select Product Table Result : ${fn:length(select)} row(s) selected</h3>
 <c:if test="${not empty select}">
 <table>
